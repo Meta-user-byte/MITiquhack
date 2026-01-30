@@ -1,1 +1,1 @@
-# MITiquhack
+# MIT iQuHACK2026
